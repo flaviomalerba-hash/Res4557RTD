@@ -1,0 +1,7 @@
+site_name: Res4557RTD
+nav:
+  - Home: index.md
+  - About: about.md
+plugins:
+  - search
+theme: readthedocs
