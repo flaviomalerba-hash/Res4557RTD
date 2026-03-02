@@ -2,6 +2,12 @@ site_name: Res4557RTD
 nav:
   - Home: index.md
   - About: about.md
+  - BCP: glossary/bcp.md
+  - ECL: glossary/ecl.md
+  - ERM: glossary/ermp.md
+  - IRRBB: glossary/irrbb.md
+  - RAS: glossary/ras.md
+  - TPRM: glossary/tprm.md
 plugins:
   - search
 theme: readthedocs

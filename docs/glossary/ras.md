@@ -5,8 +5,7 @@ Pelo Art. 5º, deve considerar:
 - os níveis de riscos que a instituição está disposta a assumir discriminados por tipo de risco e, quando aplicável, por diferentes horizontes de tempo  
 - a capacidade de a instituição gerenciar riscos de forma efetiva e prudente  
 - os objetivos estratégicos da instituição  
-- as condições de competitividade e o ambiente regulatório em que a instituição  
-atua
+- as condições de competitividade e o ambiente regulatório em que a instituição atua
 
 Dado pelo Art. 7º, a estrutura de gerenciamento de riscos deve prever políticas e estratégias para o gerenciamento de riscos, claramente documentadas,
 que estabeleçam limites e procedimentos destinados a manter a exposição aos riscos em

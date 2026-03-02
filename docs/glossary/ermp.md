@@ -296,7 +296,7 @@ Art. 38-H. A estrutura de gerenciamento de que trata o art. 7º deve prever,
 adicionalmente, para o risco país e para o risco de transferência:  
 I - mecanismos para o gerenciamento do risco país e do risco de transferência por
 contraparte, por jurisdição e, na existência de fatores relevantes de risco em comum, por conjunto
-de jurisdições, definido este com base em critérios claros e passíveis de v erificação;  
+de jurisdições, definido este com base em critérios claros e passíveis de verificação;  
 II - processos para a identificação tempestiva de mudanças políticas, legais,
 regulamentares, de mercado, entre outras, que possam impactar de maneira relevante o risco país e o risco de transferência incorrido pela instituição, bem como procedimentos para a mitigação
 desses impactos;  
