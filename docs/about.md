@@ -1,1 +1,1 @@
-[Lorem](glossary.md#lorem) Ipsum
+[Lorem](glossary/lorem.md) Ipsum
