@@ -98,11 +98,10 @@ III - a probabilidade de que a exposição seja caraterizada como ativo problem�
 IV - a expectativa de recuperação do crédito, incluindo concessão de vantagens,
 custos de execução e prazos.  
 IV - a expectativa de recuperação do crédito, incluindo concessão de vantagens,
-custos de execução e prazos; e (Redação dada, a partir de 1º/1/2025, pela Resolução CMN nº 5.089,
-de 29/6/2023.)  
+custos de execução e prazos; e  
 V - os impactos do risco país e do risco de transferência, de que trata o art. 38 -G,
 na probabilidade mencionada no inciso III e na expectativa de recuperação do crédito mencionada
-no inciso IV. (Incluído, a partir de 1º/1/2025, pela Resolução CMN nº 5.089, de 29/6/2023.)
+no inciso IV.  
 § 2º A estimativa de perda esperada deve ser revista semestralmente ou:  
 I - mensalmente, caso a exposição apresente atraso no pagamento de encargos ou
 amortizações;  

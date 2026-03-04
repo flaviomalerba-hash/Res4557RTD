@@ -14,11 +14,9 @@ instituição e, quando cabível, do conselho de administração, em caso de exc
 procedimentos, aos limites e aos termos da **RAS**.  
 
 Dado pelo Art. 8º, deve ser disseminado ao pessoal da instituição e serviços terceiros relevantes, com linguagem e informações compatíveis com sua área de atuação:  
-- o apetite por riscos documentado na **RAS** e sua conexão com as ativ idades e as
+- o apetite por riscos documentado na **RAS** e sua conexão com as atividades e as
 decisões rotineiras de assunção de riscos  
 - os procedimentos para reporte de ocorrências relacionadas à não observância
-dos níveis de apetite por riscos fixados na **RAS**  
- - os procedimentos para reporte de ocorrências relacionadas à não observância
 dos níveis de apetite por riscos fixados na **RAS**  
 
 Dado pelo Art. 23º, a estrutura de gerenciamento de riscos deve prever, para risco de crédito, critérios e procedimentos, claramente definidos e documentados, acessíveis
@@ -27,7 +25,7 @@ de crédito, incluindo tratamento das exceções aos limites e aos níveis de ap
 fixado na **RAS**.  
 
 Dado pelo Art. 30º, § 4º:  
-- os níveis de apetite por IRRBB devem ser documentados na **RAS**, tanto para os instrumentos na carteira _banking_ (abordagem de valor econômico) quanto nos serviços de intermediação financeira (abordagem de resultado de intermediação financeira)  
+- os níveis de apetite por IRRBB devem ser documentados na **RAS**, tanto para os instrumentos na carteira *banking* (abordagem de valor econômico) quanto nos serviços de intermediação financeira (abordagem de resultado de intermediação financeira)  
 - o Art. 60º XIII dispensa instituições S4 desta documentação  
 
 Dado pelo Art. 33º, a estrutura de gerenciamento de riscos deve prever, para risco operacional, implementação de estrutura de governança de TI consistente com os níveis de

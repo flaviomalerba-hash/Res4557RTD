@@ -2,6 +2,7 @@ site_name: Res4557RTD
 nav:
   - Home: index.md
   - About: about.md
+  - Resolução na Íntegra: res.md
   - BCP: glossary/bcp.md
   - ECL: glossary/ecl.md
   - ERM: glossary/ermp.md
