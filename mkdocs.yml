@@ -11,4 +11,4 @@ nav:
   - TPRM: glossary/tprm.md
 plugins:
   - search
-theme: material
+theme: readthedocs
