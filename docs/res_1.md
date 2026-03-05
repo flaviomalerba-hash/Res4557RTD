@@ -175,7 +175,7 @@ crédito.
 § 4º
 
 O Banco Central do Brasil deve ser informado sobre a indicação da entidade
-de que trata o [§ 3º](#3o_1).
+de que trata o [§ 3º](#3o-1).
 
 </section>
 <section id="5o">
@@ -301,7 +301,7 @@ adversos resultantes das interações entre os riscos mencionados no caput.
 <section id="2o-3">
 § 2º
 
-Para fins do disposto no [§ 1º](#1o_3), devem também ser consideradas as interações
+Para fins do disposto no [§ 1º](#1o-3), devem também ser consideradas as interações
 entre os riscos mencionados no caput e o risco de utilização de produtos e serviços da instituição
 na prática da lavagem de dinheiro ou do financiamento do terrorismo, nos termos da
 regulamentação emitida pelo Banco Central do Brasil.
@@ -330,7 +330,7 @@ III - sistemas, rotinas e procedimentos para o gerenciamento de riscos;
 </section>
 <section id="iv-3">
 IV - avaliação periódica da adequação dos sistemas, rotinas e procedimentos de que
-trata o [inciso III](#iii_5);
+trata o [inciso III](#iii-5);
 
 </section>
 <section id="v-1">
