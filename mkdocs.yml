@@ -12,3 +12,5 @@ nav:
 plugins:
   - search
 theme: readthedocs
+markdown-extensions:
+  - attr_list
