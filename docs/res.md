@@ -156,14 +156,14 @@ crédito.
 ### § 4º
 
 O Banco Central do Brasil deve ser informado sobre a indicação da entidade
-de que trata o [§ 3º](#3o_1).
+de que trata o [§ 3º](res_1.md#3o_1).
 
 ### § 5º
 
 O exercício da faculdade de que trata o caput não exime a responsabilidade
 da administração de cada cooperativa de crédito pelo gerenciamento de riscos e pelo
 gerenciamento de capital nos termos desta Resolução, incluindo a designação, perante o Banco
-Central do Brasil, dos diretores de que tratam os [arts. 44](#art-44o) e [47](#art-47o), ou [62](#art-62o).
+Central do Brasil, dos diretores de que tratam os [arts. 44](res_1.md#art-44o) e [47](res_1.md#art-47o), ou [62](res_1.md#art-62o).
 
 # CAPÍTULO II DA DECLARAÇÃO DE APETITE POR RISCOS (RAS)
 
@@ -195,7 +195,7 @@ atua.
 
 ### § 2º
 
-O exercício da faculdade de que trata o [art. 4º](#art-4o) implica a documentação dos
+O exercício da faculdade de que trata o [art. 4º](res_1.md#art-4o) implica a documentação dos
 níveis de apetite por riscos, considerando cada instituição integrante do sistema cooperativo de
 crédito que esteja enquadrada no S2, S3 ou S4.
 
@@ -210,7 +210,7 @@ monitorar, reportar, controlar e mitigar:
 
 #### I
 
-o risco de crédito, conforme definido no [art. 21](#art-21o), a que a instituição esteja sujeita
+o risco de crédito, conforme definido no [art. 21](res_1.md#art-21o), a que a instituição esteja sujeita
 de maneira relevante;
 
 #### II
@@ -221,32 +221,32 @@ sujeita de maneira relevante;
 #### III
 
 o risco de variação das taxas de juros para os instrumentos classificados na
-carteira bancária (IRRBB), conforme definido no [art. 28](#art-28o), a que a instituição esteja sujeita de
+carteira bancária (IRRBB), conforme definido no [art. 28](res_1.md#art-28o), a que a instituição esteja sujeita de
 maneira relevante;
 
 #### IV
 
-o risco operacional, conforme definido no [art. 32](#art-32o);
+o risco operacional, conforme definido no [art. 32](res_1.md#art-32o);
 
 #### V
 
-o risco de liquidez, conforme definido no [art. 37](#art-37o);
+o risco de liquidez, conforme definido no [art. 37](res_1.md#art-37o);
 
 #### VI
 
-o risco social, conforme definido no [art. 38-A](#art-38-a);
+o risco social, conforme definido no [art. 38-A](res_1.md#art-38-a);
 
 #### VII
 
-o risco ambiental, conforme definido no [art. 38-B](#art-38-b);
+o risco ambiental, conforme definido no [art. 38-B](res_1.md#art-38-b);
 
 #### VIII
 
-o risco climático, conforme definido no art. [38-C](#art-38-c);
+o risco climático, conforme definido no art. [38-C](res_1.md#art-38-c);
 
 #### IX
 
-o risco país e o risco de transferência, conforme definidos no [art. 38-G](#art-38-g), a que
+o risco país e o risco de transferência, conforme definidos no [art. 38-G](res_1.md#art-38-g), a que
 a instituição esteja sujeita de maneira relevante; e
 
 #### X
@@ -263,7 +263,7 @@ adversos resultantes das interações entre os riscos mencionados no caput.
 
 #### § 2º
 
-Para fins do disposto no [§ 1º](#1o_3), devem também ser consideradas as interações
+Para fins do disposto no [§ 1º](res_1.md#1o_3), devem também ser consideradas as interações
 entre os riscos mencionados no caput e o risco de utilização de produtos e serviços da instituição
 na prática da lavagem de dinheiro ou do financiamento do terrorismo, nos termos da
 regulamentação emitida pelo Banco Central do Brasil.
@@ -290,7 +290,7 @@ sistemas, rotinas e procedimentos para o gerenciamento de riscos;
 #### IV
 
 avaliação periódica da adequação dos sistemas, rotinas e procedimentos de que
-trata o [inciso III](#iii_5);
+trata o [inciso III](res_1.md#iii_5);
 
 #### V
 
@@ -330,7 +330,7 @@ incluindo os prestadores de serviços terceirizados;
 
 #### VII
 
-programa de testes de estresse, conforme definido no [art. 11](#art-11o);
+programa de testes de estresse, conforme definido no [art. 11](res_1.md#art-11o);
 
 #### VIII
 
@@ -355,12 +355,12 @@ determinantes;
 ##### b)
 
 aderência do gerenciamento de riscos aos termos da RAS e às políticas e aos
-limites mencionados no caput, [inciso I](#i_5);
+limites mencionados no caput, [inciso I](res_1.md#i_5);
 
 ##### c)
 
 avaliação dos sistemas, das rotinas e dos procedimentos, de que trata o caput,
-[inciso IV](#iv_3), incluindo eventuais deficiências da estrutura de gerenciamento de riscos e ações para
+[inciso IV](res_1.md#iv_3), incluindo eventuais deficiências da estrutura de gerenciamento de riscos e ações para
 corrigi-las;
 
 ##### d)
@@ -378,7 +378,7 @@ premissas e resultados de testes de estresse.
 
 #### § 1º
 
-As políticas para gerenciamento de riscos de que trata o caput, [inciso I](#i_5), devem
+As políticas para gerenciamento de riscos de que trata o caput, [inciso I](res_1.md#i_5), devem
 dispor sobre:
 
 ##### I
@@ -394,13 +394,13 @@ previsto pela instituição, em conformidade com os termos da RAS.
 
 #### § 2º
 
-Os sistemas de que trata o caput, [inciso III](#iii_5), incluem sistemas de informação
+Os sistemas de que trata o caput, [inciso III](res_1.md#iii_5), incluem sistemas de informação
 adequados para avaliar, mensurar e reportar, em condições normais ou de estresse, a dimensão, a
 composição e a qualidade das exposições, considerando os riscos incorridos pela instituição.
 
 #### § 3º
 
-O reporte produzido pelos sistemas de informação de que trata o [§ 2º](#2o_4) deve:
+O reporte produzido pelos sistemas de informação de que trata o [§ 2º](res_1.md#2o_4) deve:
 
 ##### I
 
@@ -418,7 +418,7 @@ premissas adotadas em modelos quantitativos e em cenários.
 
 ##### § 4º
 
-As políticas de que trata o caput, [inciso I](#i_5) devem ser compatíveis com as
+As políticas de que trata o caput, [inciso I](res_1.md#i_5) devem ser compatíveis com as
 demais políticas estabelecidas pela instituição, incluindo a Política de Responsabilidade Social,
 Ambiental e Climática (PRSAC) e a política de conformidade.
 
@@ -520,7 +520,7 @@ São requisitos do programa de testes de estresse:
 
 #### I
 
-abranger os riscos relevantes mencionados no [art. 6º](#art-6o);
+abranger os riscos relevantes mencionados no [art. 6º](res_1.md#art-6o);
 
 #### II
 
@@ -600,7 +600,7 @@ monitoramento, no controle e na mitigação dos riscos da instituição;
 #### II
 
 seu uso auxiliar na avaliação da adequação e da robustez das premissas e das
-metodologias utilizadas nos modelos de que trata o [art. 9º](#art-9o), quando utilizados.
+metodologias utilizadas nos modelos de que trata o [art. 9º](res_1.md#art-9o), quando utilizados.
 
 ### Art. 14
 
@@ -670,7 +670,7 @@ implicar sua exclusão do programa de testes de estresse.
 
 ### Art. 16
 
-Os sistemas mencionados no [art. 7º](#art-7o), [inciso III](#iii_5), utilizados no âmbito do
+Os sistemas mencionados no [art. 7º](res_1.md#art-7o), [inciso III](res_1.md#iii_5), utilizados no âmbito do
 programa de testes de estresse, devem ser flexíveis para permitir:
 
 #### I
@@ -705,7 +705,7 @@ gerenciamento de riscos e do gerenciamento de capital;
 
 #### IV
 
-no processo estruturado de comunicação de que trata o [art. 8º](#art-8o);
+no processo estruturado de comunicação de que trata o [art. 8º](res_1.md#art-8o);
 
 #### V
 
@@ -714,7 +714,7 @@ dos respectivos planos de contingência;
 
 #### VI
 
-na avaliação da adequação de capital, de que trata o [art. 40](#art-40o), [inciso VI](#vi_13); e
+na avaliação da adequação de capital, de que trata o [art. 40](res_1.md#art-40o), [inciso VI](res_1.md#vi_13); e
 
 #### VII
 
@@ -742,13 +742,13 @@ realização de testes de estresse com base em cenários por ele fornecidos.
 
 #### § 1º
 
-O disposto no [inciso II](#ii_17) do caput aplica-se tanto aos testes de estresse requeridos em caráter eventual quanto aos testes de estresse requeridos com periodicidade definida pelo
+O disposto no [inciso II](res_1.md#ii_17) do caput aplica-se tanto aos testes de estresse requeridos em caráter eventual quanto aos testes de estresse requeridos com periodicidade definida pelo
 Banco Central do Brasil.
 
 #### § 2º
 
 As informações relativas aos resultados dos testes de estresse de que trata o
-[inciso II](#ii_17) do caput deverão ser encaminhadas ao Banco Central do Brasil no formato por ele
+[inciso II](res_1.md#ii_17) do caput deverão ser encaminhadas ao Banco Central do Brasil no formato por ele
 definido.
 
 ## Seção III Da gestão de continuidade de negócios
@@ -756,7 +756,7 @@ definido.
 ### Art. 20
 
 As políticas para a gestão de continuidade de negócios de que trata o [art.
-7º](#art-7o), [inciso IX](#ix_1), devem estabelecer:
+7º](res_1.md#art-7o), [inciso IX](res_1.md#ix_1), devem estabelecer:
 
 #### I
 
@@ -769,7 +769,7 @@ identificação, classificação e documentação dos processos críticos de neg
 ##### b)
 
 avaliação dos potenciais efeitos da interrupção dos processos mencionados na
-[alínea “a”](#a_6);
+[alínea “a”](res_1.md#a_6);
 
 #### II
 
@@ -794,8 +794,8 @@ serviços prestados por terceiros, quando relevantes.
 
 #### § 2º
 
-Os relatórios gerenciais mencionados no [art. 7º](#art-7o), [inciso X](#x_1), devem incluir os
-resultados dos testes e das revisões de que trata o caput, [inciso IV](#iv_8).
+Os relatórios gerenciais mencionados no [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), devem incluir os
+resultados dos testes e das revisões de que trata o caput, [inciso IV](res_1.md#iv_8).
 
 ## Seção IV Do gerenciamento do risco de crédito
 
@@ -821,7 +821,7 @@ reestruturação de instrumentos financeiros; ou
 #### IV
 
 custos de recuperação de exposições caracterizadas como ativos problemáticos,
-nos termos do [art. 24](#art-24o).
+nos termos do [art. 24](res_1.md#art-24o).
 
 #### § 1º
 
@@ -982,7 +982,7 @@ existência de compartilhamento do risco de crédito entre elas.
 
 ### Art. 23
 
-A estrutura de gerenciamento de que trata o [art. 7º](#art-7o) deve prever,
+A estrutura de gerenciamento de que trata o [art. 7º](res_1.md#art-7o) deve prever,
 adicionalmente, para o risco de crédito:
 
 #### I
@@ -1003,11 +1003,11 @@ mecanismos para o gerenciamento do risco de crédito de:
 
 ##### a)
 
-instrumentos classificados na carteira de negociação mencionada no [art. 26](#art-26o);
+instrumentos classificados na carteira de negociação mencionada no [art. 26](res_1.md#art-26o);
 
 ##### b)
 
-instrumentos classificados na carteira bancária mencionada no [art. 26](#art-26o), [§ 2º](#2o_10);
+instrumentos classificados na carteira bancária mencionada no [art. 26](res_1.md#art-26o), [§ 2º](res_1.md#2o_10);
 
 #### IV
 
@@ -1043,7 +1043,7 @@ transferência de ativos financeiros;
 #### X
 
 estabelecimento de limites para exposição ao risco de concentração de que trata
-o [art. 21](#art-21o), [§ 3º](#3o_3), [inciso VI](#vi_5);
+o [art. 21](res_1.md#art-21o), [§ 3º](res_1.md#3o_3), [inciso VI](res_1.md#vi_5);
 
 #### XI
 
@@ -1086,7 +1086,7 @@ cobrança e recebimento de créditos;
 ##### g)
 
 recuperação de exposições caracterizadas como ativos problemáticos, nos termos
-do [art. 24](#art-24o);
+do [art. 24](res_1.md#art-24o);
 
 #### XIII
 
@@ -1127,27 +1127,27 @@ pactuados;
 #### XV
 
 critérios e procedimentos para identificação, monitoramento e controle de
-exposição caracterizada como ativo problemático, nos termos do [art. 24](#art-24o);
+exposição caracterizada como ativo problemático, nos termos do [art. 24](res_1.md#art-24o);
 
 #### XVI
 
 documentação e armazenamento de informações referentes às perdas
 associadas ao risco de crédito, incluindo aquelas relacionadas à reestruturação, nos termos do [art.
-21](#art-21o), [§ 1º](#1o_8), [inciso II](#ii_20), e à recuperação de crédito;
+21](res_1.md#art-21o), [§ 1º](res_1.md#1o_8), [inciso II](res_1.md#ii_20), e à recuperação de crédito;
 
 #### XVII
 
 sistemas de informação capazes de identificar e agregar, de forma contínua,
-as exposições sujeitas ao risco de concentração definido no [art. 21](#art-21o), [§3º](#3o_3), [inciso VI](#iv_10).
+as exposições sujeitas ao risco de concentração definido no [art. 21](res_1.md#art-21o), [§3º](res_1.md#3o_3), [inciso VI](res_1.md#iv_10).
 
 #### § 1º
 
-A estimativa da perda esperada, de que trata o caput, [inciso VI](#vi_6), deve
+A estimativa da perda esperada, de que trata o caput, [inciso VI](res_1.md#vi_6), deve
 considerar:
 
 ##### I
 
-a classificação da exposição segundo o disposto no caput, [inciso XIV](#xiv);
+a classificação da exposição segundo o disposto no caput, [inciso XIV](res_1.md#xiv);
 
 ##### II
 
@@ -1164,9 +1164,9 @@ custos de execução e prazos; e
 
 ##### V
 
-os impactos do risco país e do risco de transferência, de que trata o [art. 38-G](#art-38-g),
-na probabilidade mencionada no [inciso III](#iii_18) e na expectativa de recuperação do crédito mencionada
-no [inciso IV](#iv_13).
+os impactos do risco país e do risco de transferência, de que trata o [art. 38-G](res_1.md#art-38-g),
+na probabilidade mencionada no [inciso III](res_1.md#iii_18) e na expectativa de recuperação do crédito mencionada
+no [inciso IV](res_1.md#iv_13).
 
 #### § 2º
 
@@ -1183,7 +1183,7 @@ imediatamente, diante da caracterização da exposição como ativo problemátic
 
 #### § 3º
 
-Os relatórios gerenciais de que trata o [art. 7º](#art-7o), [inciso X](#x_1), devem abordar os
+Os relatórios gerenciais de que trata o [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), devem abordar os
 seguintes aspectos adicionais relativamente ao risco de crédito:
 
 ##### I
@@ -1197,8 +1197,8 @@ abordando sua classificação e as respectivas provisões;
 
 ##### III
 
-as exposições sujeitas ao risco de concentração definido no [art. 21](#art-21o), [§ 3º](#3o_3), [inciso
-VI](#iv_10).
+as exposições sujeitas ao risco de concentração definido no [art. 21](res_1.md#art-21o), [§ 3º](res_1.md#3o_3), [inciso
+VI](res_1.md#iv_10).
 
 ##### IV
 
@@ -1263,7 +1263,7 @@ os instrumentos classificados na carteira de negociação ou na carteira bancár
 ### Art. 25-A
 
 Os instrumentos sujeitos ao risco de mercado, conforme definido no [art.
-25](#art-25o), devem ser gerenciados por uma estrutura de mesa de operações.
+25](res_1.md#art-25o), devem ser gerenciados por uma estrutura de mesa de operações.
 
 #### § 1º
 
@@ -1293,7 +1293,7 @@ volume de negociação da instituição e aos tipos de instrumentos negociados.
 
 ### Art. 25-B
 
-Cada mesa de operações de que trata o [art. 25-A](#art-25-a) deve gerenciar
+Cada mesa de operações de que trata o [art. 25-A](res_1.md#art-25-a) deve gerenciar
 exclusivamente instrumentos sujeitos ao risco de mercado.
 
 ### Art. 26
@@ -1318,7 +1318,7 @@ definidos pela regulamentação em vigor.
 #### § 1º-A
 
 Os ajustes ao valor de mercado do instrumento decorrentes da avaliação de
-que trata o [inciso II](#ii_30) do caput devem ser reconhecidos em contrapartida à adequada conta de receita
+que trata o [inciso II](res_1.md#ii_30) do caput devem ser reconhecidos em contrapartida à adequada conta de receita
 ou de despesa, no resultado do período das instituições.
 
 #### § 2º
@@ -1336,7 +1336,7 @@ consistentes e passíveis de verificação.
 
 Em situações extraordinárias devidamente fundamentadas, o Banco
 Central do Brasil poderá autorizar, conforme critérios e procedimentos por ele estabelecidos, a
-classificação excepcional de instrumentos que atendam ao disposto no [art. 26](#art-26) na carteira bancária
+classificação excepcional de instrumentos que atendam ao disposto no [art. 26](res_1.md#art-26) na carteira bancária
 ou a reclassificação de instrumentos entre as carteiras de negociação e bancária.
 
 ### Art. 27
@@ -1395,7 +1395,7 @@ os instrumentos classificados na carteira bancária.
 
 ### Art. 29
 
-A estrutura de gerenciamento de que trata o [art. 7º](#art-7o) deve prever,
+A estrutura de gerenciamento de que trata o [art. 7º](res_1.md#art-7o) deve prever,
 adicionalmente, para o risco de mercado e para o IRRBB:
 
 #### I
@@ -1439,12 +1439,12 @@ liquidez e a sensibilidade ao risco dos instrumentos classificados nessa carteir
 #### § 1º
 
 Para as instituições enquadradas no S1, S2 ou S3, a identificação, a mensuração
-e o controle do IRRBB de que trata o caput, [inciso II](#ii_32), devem se basear em abordagens de valor
+e o controle do IRRBB de que trata o caput, [inciso II](res_1.md#ii_32), devem se basear em abordagens de valor
 econômico e de resultado de intermediação financeira.
 
 #### § 2º
 
-Sem prejuízo do disposto no [§ 1º](#1o_16), para as instituições enquadradas no S1, S2,
+Sem prejuízo do disposto no [§ 1º](res_1.md#1o_16), para as instituições enquadradas no S1, S2,
 S3 ou S4, o Banco Central do Brasil poderá definir metodologias específicas e requisitos mínimos
 a serem observados na identificação, na mensuração e no controle do IRRBB, incluindo as
 baseadas em abordagens de valor econômico e de resultado de intermediação financeira.
@@ -1468,11 +1468,11 @@ instituição.
 #### § 4º
 
 Os níveis de apetite por IRRBB devem ser documentados na RAS para cada
-abordagem de que trata o [§ 3º](#3o_10).
+abordagem de que trata o [§ 3º](res_1.md#3o_10).
 
 ### Art. 31
 
-Os relatórios gerenciais de que trata o [art. 7º](#art-7o), [inciso X](#x_1), devem abordar os
+Os relatórios gerenciais de que trata o [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), devem abordar os
 seguintes aspectos adicionais relativamente ao IRRBB:
 
 #### I
@@ -1553,7 +1553,7 @@ atividades da instituição, incluindo aquelas relacionadas aos arranjos de paga
 
 #### § 3º
 
-Para as atividades de pagamento, as falhas mencionadas no [§ 2º](#2o_17) incluem:
+Para as atividades de pagamento, as falhas mencionadas no [§ 2º](res_1.md#2o_17) incluem:
 
 ##### I
 
@@ -1576,7 +1576,7 @@ falhas na iniciação de transação de pagamento.
 
 ### Art. 33
 
-A estrutura de gerenciamento de que trata o [art. 7º](#art-7o) deve prever,
+A estrutura de gerenciamento de que trata o [art. 7º](res_1.md#art-7o) deve prever,
 adicionalmente, para o risco operacional:
 
 #### I
@@ -1676,8 +1676,8 @@ deve estipular que:
 
 ##### I
 
-o contratado deverá atender ao disposto nos incisos [IV](#iv_17), [VII](#vii_5), [VIII](#viii_4), [IX](#ix_3) e [X](#x_3) do
-caput e ao disposto no [§ 3º](#3o_12);
+o contratado deverá atender ao disposto nos incisos [IV](res_1.md#iv_17), [VII](res_1.md#vii_5), [VIII](res_1.md#viii_4), [IX](res_1.md#ix_3) e [X](res_1.md#x_3) do
+caput e ao disposto no [§ 3º](res_1.md#3o_12);
 
 ##### II
 
@@ -1702,7 +1702,7 @@ dependências do contratado.
 
 #### § 2º
 
-Os resultados das análises de cenários de que trata o caput, [inciso VI](#vi_8), devem
+Os resultados das análises de cenários de que trata o caput, [inciso VI](res_1.md#vi_8), devem
 ser considerados na revisão da estrutura de gerenciamento de riscos e na alocação de capital.
 
 #### § 3º
@@ -1774,7 +1774,7 @@ cada evento de perda, e outros dados de risco operacional.
 #### § 1º
 
 Para fins do disposto nesta Resolução, define-se perda operacional como o
-valor quantificável associado aos eventos de risco operacional mencionados no [art. 32](#art-32o).
+valor quantificável associado aos eventos de risco operacional mencionados no [art. 32](res_1.md#art-32o).
 
 #### § 2º
 
@@ -1789,7 +1789,7 @@ do risco operacional.
 
 ### Art. 35
 
-Os relatórios gerenciais de que trata o [art. 7º](#art-7o), [inciso X](#x_1), devem incluir
+Os relatórios gerenciais de que trata o [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), devem incluir
 informações referentes às perdas operacionais relevantes.
 
 ### Art. 36
@@ -1823,7 +1823,7 @@ escritural no momento da solicitação do usuário.
 
 ### Art. 38
 
-A estrutura de gerenciamento de que trata o [art. 7º](#art-7o) deve prever,
+A estrutura de gerenciamento de que trata o [art. 7º](res_1.md#art-7o) deve prever,
 adicionalmente, para o risco de liquidez:
 
 #### I
@@ -1876,7 +1876,7 @@ operacionais ou por imposições feitas por um país.
 
 #### § 3º
 
-O plano de contingência de liquidez de que trata o caput, [inciso II](#ii_41), deve ser
+O plano de contingência de liquidez de que trata o caput, [inciso II](res_1.md#ii_41), deve ser
 regularmente atualizado e estabelecer responsabilidades, estratégias e procedimentos, claramente
 definidos e documentados, para enfrentar situações de estresse.
 
@@ -1935,7 +1935,7 @@ criminoso da prostituição;
 ##### V
 
 não observância da legislação previdenciária ou trabalhista, incluindo a
-legislação referente à saúde e segurança do trabalho, sem prejuízo do disposto no [art. 32](#art-32o);
+legislação referente à saúde e segurança do trabalho, sem prejuízo do disposto no [art. 32](res_1.md#art-32o);
 
 ##### VI
 
@@ -1965,7 +1965,7 @@ o desmonte das respectivas instalações;
 ##### X
 
 tratamento irregular, ilegal ou criminoso de dados pessoais, sem prejuízo do
-disposto no [art. 32](#art-32o);
+disposto no [art. 32](res_1.md#art-32o);
 
 ##### XI
 
@@ -2107,13 +2107,13 @@ serviços, atividades ou processos e das atividades desempenhadas por:
 
 ##### a)
 
-contrapartes da instituição, conforme definição estabelecida no [art. 21](#art-21o), [§ 1º](#1o_8),
-[inciso I](#i_20);
+contrapartes da instituição, conforme definição estabelecida no [art. 21](res_1.md#art-21o), [§ 1º](res_1.md#1o_8),
+[inciso I](res_1.md#i_20);
 
 ##### b)
 
 entidades controladas pela instituição, nos termos dos critérios estabelecidos no
-[§ 2º](#2o_22) deste artigo; e
+[§ 2º](res_1.md#2o_22) deste artigo; e
 
 ##### c)
 
@@ -2158,7 +2158,7 @@ e
 #### VII
 
 realização de análise de cenários, no âmbito do programa de testes de estresse
-de que trata o [art. 7º](#art-7o), [inciso VII](#vii_1), que considerem hipóteses de mudanças em padrões climáticos e
+de que trata o [art. 7º](res_1.md#art-7o), [inciso VII](res_1.md#vii_1), que considerem hipóteses de mudanças em padrões climáticos e
 de transição para uma economia de baixo carbono.
 
 #### § 1º
@@ -2170,7 +2170,7 @@ quando aplicáveis, devem ser observados para cada um dos riscos envolvidos.
 
 #### § 2º
 
-Para fins do disposto no caput, [inciso I](#i_46), [alínea “b”](#b_22), a relação de controle da
+Para fins do disposto no caput, [inciso I](res_1.md#i_46), [alínea “b”](res_1.md#b_22), a relação de controle da
 instituição sobre uma entidade ocorre quando atendido pelo menos um dos seguintes critérios:
 
 ##### I
@@ -2195,7 +2195,7 @@ entidade.
 
 #### § 3º
 
-Para fins do disposto no caput, [inciso III](#iii_27), não é requerida a constituição de
+Para fins do disposto no caput, [inciso III](res_1.md#iii_27), não é requerida a constituição de
 bases de dados exclusivas, desde que seja possível a extração das respectivas informações com
 vistas ao gerenciamento do risco social, do risco ambiental e do risco climático.
 
@@ -2209,13 +2209,13 @@ os demais riscos incorridos pela instituição deve incluir:
 
 critérios, claramente documentados e passíveis de verificação, para a
 identificação do risco social, do risco ambiental e do risco climático como fonte significativa dos
-riscos mencionados no [art. 6º](#art-6o), caput;
+riscos mencionados no [art. 6º](res_1.md#art-6o), caput;
 
 #### II
 
 mecanismos para a consideração de aspectos relativos ao risco social, ao risco
 ambiental e ao risco climático na concessão, na classificação e no monitoramento das operações
-sujeitas ao risco de crédito, conforme definido no [art. 21](#art-21o), incluindo:
+sujeitas ao risco de crédito, conforme definido no [art. 21](res_1.md#art-21o), incluindo:
 
 ##### a)
 
@@ -2241,54 +2241,54 @@ ambiental ou de risco climático;
 #### III
 
 avaliação do impacto do risco social, do risco ambiental e do risco climático
-nas posições sujeitas ao risco de mercado e ao IRRBB, conforme definidos nos [arts. 25](#art-25o) e [28](#art-28o),
+nas posições sujeitas ao risco de mercado e ao IRRBB, conforme definidos nos [arts. 25](res_1.md#art-25o) e [28](res_1.md#art-28o),
 respectivamente, com base em critérios estabelecidos pela instituição;
 
 #### IV
 
 políticas, estratégias e procedimentos para a mitigação do risco operacional,
-conforme definido no [art. 32](#art-32o), que possa ser associado a evento de risco social, de risco ambiental
+conforme definido no [art. 32](res_1.md#art-32o), que possa ser associado a evento de risco social, de risco ambiental
 ou de risco climático, incluindo:
 
 ##### a)
 
 estabelecimento de condições mínimas nos contratos firmados pela instituição
-para mitigar o risco legal, conforme definido no [art. 32](#art-32o), [§ 1º](#1o_17);
+para mitigar o risco legal, conforme definido no [art. 32](res_1.md#art-32o), [§ 1º](res_1.md#1o_17);
 
 ##### b)
 
 definição de critérios de decisão quanto à terceirização de serviços e de seleção
-de seus prestadores, nos termos do [art. 33](#art-33o), [inciso I](#i_37), que considerem aspectos de risco social, de
+de seus prestadores, nos termos do [art. 33](res_1.md#art-33o), [inciso I](res_1.md#i_37), que considerem aspectos de risco social, de
 risco ambiental e de risco climático; e
 
 ##### c)
 
 consideração de aspectos referentes ao risco social, ao risco ambiental e ao risco
-climático na análise de cenários de que trata o [art. 33](#art-33o), [inciso VI](#iv_17), com o objetivo de estimar a
+climático na análise de cenários de que trata o [art. 33](res_1.md#art-33o), [inciso VI](res_1.md#iv_17), com o objetivo de estimar a
 exposição da instituição a eventos de risco operacional raros e de alta se veridade;
 
 #### V
 
 políticas, estratégias e procedimentos para a mitigação do risco de liquidez,
-conforme definido no [art. 37](#art-37o), que possa ser associado a evento de risco social, de risco ambiental
+conforme definido no [art. 37](res_1.md#art-37o), que possa ser associado a evento de risco social, de risco ambiental
 ou de risco climático, incluindo:
 
 ##### a)
 
 avaliação do impacto do risco social, do risco ambiental e do risco climático no
-estoque de ativos líquidos e nas fontes de captação de recursos, de que trata o [art. 38](#art-38o), [inciso I](#i_41),
-[alíneas “b”](#b_19) e [“d”](#d_9); e
+estoque de ativos líquidos e nas fontes de captação de recursos, de que trata o [art. 38](res_1.md#art-38o), [inciso I](res_1.md#i_41),
+[alíneas “b”](res_1.md#b_19) e [“d”](res_1.md#d_9); e
 
 ##### b)
 
-no âmbito do plano de contingência de liquidez, de que trata o [art. 38](#art-38o), [inciso II](#ii_41),
+no âmbito do plano de contingência de liquidez, de que trata o [art. 38](res_1.md#art-38o), [inciso II](res_1.md#ii_41),
 estabelecimento de responsabilidades, estratégias e procedimentos para enfrentar situações de
 estresse associadas à possibilidade de ocorrência de eventos de risco social, de risco ambiental ou
 de risco climático.
 
 #### Parágrafo único
 
-Os indicadores de que trata o caput, [inciso II](#ii_48), [alínea “b”](#b_23), devem
+Os indicadores de que trata o caput, [inciso II](res_1.md#ii_48), [alínea “b”](res_1.md#b_23), devem
 considerar, entre outros aspectos:
 
 ##### I
@@ -2329,17 +2329,17 @@ aspectos sociais, ambientais e climáticos.
 
 ### Art. 38-F
 
-Os relatórios gerenciais de que trata o [art. 7º](#art-7o), [inciso X](#x_1), devem abordar
+Os relatórios gerenciais de que trata o [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), devem abordar
 os seguintes aspectos adicionais relativamente ao risco social, o risco ambiental e o risco climático:
 
 #### I
 
-dados sobre as perdas relevantes incorridas, nos termos do [art. 38-D](#art-38-d), [inciso III](#iii_27);
+dados sobre as perdas relevantes incorridas, nos termos do [art. 38-D](res_1.md#art-38-d), [inciso III](res_1.md#iii_27);
 e
 
 #### II
 informações sobre concentrações de risco social, de risco ambiental e de risco
-climático, de que trata o [art. 38-D](#art-38-d), [inciso V](#v_15).
+climático, de que trata o [art. 38-D](res_1.md#art-38-d), [inciso V](res_1.md#v_15).
 
 ## Seção IX Do gerenciamento do risco país e do risco de transferência
 
@@ -2373,12 +2373,12 @@ a respectiva liquidação.
 
 #### Parágrafo único
 
-Para fins do disposto no caput, [inciso I](#i_51), [alínea “b”](#b_27), aplica-se a
-definição de contraparte estabelecida no [art. 21](#art-21o), [§ 1º](#1o_8), [inciso I](#i_20).
+Para fins do disposto no caput, [inciso I](res_1.md#i_51), [alínea “b”](res_1.md#b_27), aplica-se a
+definição de contraparte estabelecida no [art. 21](res_1.md#art-21o), [§ 1º](res_1.md#1o_8), [inciso I](res_1.md#i_20).
 
 ### Art. 38-H
 
-A estrutura de gerenciamento de que trata o [art. 7º](#art-7o) deve prever,
+A estrutura de gerenciamento de que trata o [art. 7º](res_1.md#art-7o) deve prever,
 adicionalmente, para o risco país e para o risco de transferência:
 
 #### I
@@ -2413,7 +2413,7 @@ de um mesmo conglomerado prudencial.
 
 #### § 2º
 
-Os relatórios gerenciais de que trata o [art. 7º](#art-7o), [inciso X](#x_1), devem abordar,
+Os relatórios gerenciais de que trata o [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), devem abordar,
 adicionalmente para o risco país e para o risco de transferência, o reporte de exposições relevantes,
 agrupadas, conforme o caso, por jurisdição e, na existência de fatores relevantes de risco em
 comum, por conjunto de jurisdições.
@@ -2457,7 +2457,7 @@ sistemas, rotinas e procedimentos para o gerenciamento de capital;
 ### III
 
 avaliação dos impactos no capital dos resultados do programa de testes de
-estresse de que trata o [art. 7º](#art-7o), [inciso VII](vii_1);
+estresse de que trata o [art. 7º](res_1.md#art-7o), [inciso VII](vii_1);
 
 ### IV
 
@@ -2494,7 +2494,7 @@ com o requerimento mínimo regulamentar estabelecido na [Resolução nº 4.615, 
 
 ### § 1º
 
-O plano de contingência de capital de que trata o caput, [inciso V](#v_17), deve ser
+O plano de contingência de capital de que trata o caput, [inciso V](res_1.md#v_17), deve ser
 regularmente atualizado e estabelecer responsabilidades, estratégias e procedimentos, claramente
 definidos e documentados, para enfrentar situações de estresse.
 
@@ -2523,7 +2523,7 @@ metodologia.
 
 ## Art. 41.
 
-O plano de capital, mencionado no [art. 40](art-40o), [inciso IV](#iv_26), deve ser consistente
+O plano de capital, mencionado no [art. 40](art-40o), [inciso IV](res_1.md#iv_26), deve ser consistente
 com o planejamento estratégico da instituição, abranger o horizonte mínimo de três anos e prever:
 
 ### I
@@ -2573,7 +2573,7 @@ resultados das suas avaliações internas.
 ### Art. 43
 
 A atividade de gerenciamento de riscos deve ser executada por unidade
-específica nas instituições de que trata o [art. 2º](#art-2o).
+específica nas instituições de que trata o [art. 2º](res_1.md#art-2o).
 
 #### § 1º
 
@@ -2608,7 +2608,7 @@ utilizadas na estrutura de gerenciamento de riscos.
 ### Art. 44
 
 A instituição deve indicar diretor para gerenciamento de riscos (CRO)
-responsável pela unidade específica de que trata o [art. 43](#art-43o).
+responsável pela unidade específica de que trata o [art. 43](res_1.md#art-43o).
 
 #### § 1º
 
@@ -2628,7 +2628,7 @@ gerenciamento de riscos;
 ##### III
 
 responsabilidade pela adequada capacitação dos integrantes da unidade
-específica de que trata o [art. 43](#art-43o), acerca das políticas, dos processos, dos relatórios, dos sistemas e
+específica de que trata o [art. 43](res_1.md#art-43o), acerca das políticas, dos processos, dos relatórios, dos sistemas e
 dos modelos da estrutura de gerenciamento de riscos, mesmo que desenvolvidos por terceiros;
 
 ##### IV
@@ -2639,7 +2639,7 @@ auxiliando o conselho de administração;
 
 ##### V
 
-participação no processo de aprovação de que trata o [inciso II](#ii_64) do [art. 50](#art-50o);
+participação no processo de aprovação de que trata o [inciso II](res_1.md#ii_64) do [art. 50](res_1.md#art-50o);
 
 ##### VI
 
@@ -2651,7 +2651,7 @@ exposições concentradas.
 
 Desde que assegurada a inexistência de conflito de interesses, admite-se que o
 CRO desempenhe outras funções na instituição, incluindo a avaliação da adequação de capital de
-que trata o [art. 40](#art-40o), [inciso VI](#vi_13).
+que trata o [art. 40](res_1.md#art-40o), [inciso VI](res_1.md#vi_13).
 
 #### § 3º
 
@@ -2763,7 +2763,7 @@ não sejam e não tenham sido empregados da instituição nos últimos seis mese
 ##### II
 
 não sejam cônjuges, ou parentes em linha reta, em linha colateral ou por
-afinidade, até o segundo grau, das pessoas referidas no [inciso I](#i_61);
+afinidade, até o segundo grau, das pessoas referidas no [inciso I](res_1.md#i_61);
 
 ##### III
 
@@ -2782,7 +2782,7 @@ executivo.
 #### § 6º
 
 O comitê de riscos deve ser presidido por membro que atenda aos requisitos
-elencados no [§ 5º](#5o_4) e que não seja e não tenha sido, nos últimos seis meses, presidente do conselho
+elencados no [§ 5º](res_1.md#5o_4) e que não seja e não tenha sido, nos últimos seis meses, presidente do conselho
 de administração ou de qualquer outro comitê da instituição.
 
 #### § 7º
@@ -2794,14 +2794,14 @@ riscos e o efetivo tratamento dos riscos a que a instituição está exposta.
 #### § 8º
 
 A diretoria de instituição não sujeita à constituição de comitê de riscos nos
-termos do caput deve assumir as atribuições mencionadas no [§ 1º](#1o_27), incisos [I](#i_59), [II](#ii_59), [III](#iii_37), [V](#v_20) e [VI](#vi_15).
+termos do caput deve assumir as atribuições mencionadas no [§ 1º](res_1.md#1o_27), incisos [I](res_1.md#i_59), [II](res_1.md#ii_59), [III](res_1.md#iii_37), [V](res_1.md#v_20) e [VI](res_1.md#vi_15).
 
 ## Seção II Do gerenciamento de capital
 
 ### Art. 46
 
 A atividade de gerenciamento de capital deve ser executada por unidade
-específica nas instituições de que trata o [art. 2º](#art-2o).
+específica nas instituições de que trata o [art. 2º](res_1.md#art-2o).
 
 #### § 1º
 
@@ -2870,41 +2870,41 @@ aprovar e revisar, com periodicidade mínima anual:
 ##### a)
 
 as políticas, as estratégias e os limites de gerenciamento de riscos de que trata o
-[art. 7º](#art-7o), [inciso I](#i_5);
+[art. 7º](res_1.md#art-7o), [inciso I](res_1.md#i_5);
 
 ##### b)
 
-as políticas e as estratégias de gerenciamento de capital de que trata o [art. 40](#art-40o),
-[inciso I](#i_54);
+as políticas e as estratégias de gerenciamento de capital de que trata o [art. 40](res_1.md#art-40o),
+[inciso I](res_1.md#i_54);
 
 ##### c)
 
-o programa de testes de estresse de que trata o [art. 7º](#art-7o), [inciso VII](#vii_1);
+o programa de testes de estresse de que trata o [art. 7º](res_1.md#art-7o), [inciso VII](res_1.md#vii_1);
 
 ##### d)
 
-as políticas para a gestão de continuidade de negócios de que trata o [art. 7º](#art-7o), inciso
-[IX](#ix_1);
+as políticas para a gestão de continuidade de negócios de que trata o [art. 7º](res_1.md#art-7o), inciso
+[IX](res_1.md#ix_1);
 
 ##### e)
 
-o plano de contingência de liquidez, de que trata o [art. 38](#art-38o), [inciso II](#ii_41);
+o plano de contingência de liquidez, de que trata o [art. 38](res_1.md#art-38o), [inciso II](res_1.md#ii_41);
 
 ##### f)
 
-o plano de capital de que trata o [art. 40](#art-40o), [inciso IV](#iv_26);
+o plano de capital de que trata o [art. 40](res_1.md#art-40o), [inciso IV](res_1.md#iv_26);
 
 ##### g)
 
-o plano de contingência de capital de que trata o [art. 40](#art-40o), [inciso V](#v_17);
+o plano de contingência de capital de que trata o [art. 40](res_1.md#art-40o), [inciso V](res_1.md#v_17);
 
 ##### h)
 
-a política de divulgação de informações de que trata o [art. 56](#art-56o); e
+a política de divulgação de informações de que trata o [art. 56](res_1.md#art-56o); e
 
 ##### i)
 
-as políticas de que trata o [art. 27](#art-27o);
+as políticas de que trata o [art. 27](res_1.md#art-27o);
 
 #### III
 
@@ -2919,7 +2919,7 @@ de riscos e da estrutura de gerenciamento de capital;
 #### V
 
 aprovar alterações significativas, em decorrência dos riscos de que trata o [art.
-7º](#art-7o), [inciso V](#v_1), nas políticas e nas estratégias da instituição, bem como em seus sistemas, rotinas e
+7º](res_1.md#art-7o), [inciso V](res_1.md#v_1), nas políticas e nas estratégias da instituição, bem como em seus sistemas, rotinas e
 procedimentos;
 
 #### VI
@@ -2973,7 +2973,7 @@ negociação e bancária; e
 #### III
 
 solicitar a autorização para constituição da mesa de operações dedicada, de que
-trata o [art. 27-A](#art-27-a), [§ 2º](#2o_15), e encaminhá-la para ciência ao Conselho de Administração, quando
+trata o [art. 27-A](res_1.md#art-27-a), [§ 2º](res_1.md#2o_15), e encaminhá-la para ciência ao Conselho de Administração, quando
 existente.
 
 ## Seção IV Das atribuições conjuntas
@@ -2991,7 +2991,7 @@ capital e a liquidez da instituição;
 #### II
 
 entender as limitações das informações constantes dos relatórios de que tratam
-os [arts. 7º](#art-7o), [inciso X](#x_1), e [40](#art-40o), [inciso VII](#vii_10), e dos reportes relativos ao gerenciamento de riscos e ao
+os [arts. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), e [40](res_1.md#art-40o), [inciso VII](res_1.md#vii_10), e dos reportes relativos ao gerenciamento de riscos e ao
 gerenciamento de capital;
 
 #### III
@@ -3019,14 +3019,14 @@ capital devem ser avaliados periodicamente pela auditoria interna da instituiç�
 ## Art. 53
 
 A estrutura unificada para gerenciamento de riscos do conglomerado
-prudencial, de que trata o [art. 2º](#art-2o), [§ 2º](#2o), deve considerar os riscos associados ao conglomerado e a
+prudencial, de que trata o [art. 2º](res_1.md#art-2o), [§ 2º](res_1.md#2o), deve considerar os riscos associados ao conglomerado e a
 cada instituição individualmente, bem como identificar e acompanhar os riscos associados às
 demais entidades controladas por seus integrantes ou das quais estes participem.
 
 ## Art. 54
 
 A estrutura unificada para gerenciamento de capital do conglomerado
-prudencial, de que trata o [art. 2º](#art-2o), [§ 2º](#2o), deve avaliar os possíveis impactos no capital e na liquidez
+prudencial, de que trata o [art. 2º](res_1.md#art-2o), [§ 2º](res_1.md#2o), deve avaliar os possíveis impactos no capital e na liquidez
 do conglomerado prudencial oriundos dos riscos de que trata o art. 6º.
 
 ## Art. 55
@@ -3038,16 +3038,16 @@ qual compete:
 ### I
 
 designar o CRO responsável pelo gerenciamento de riscos do conglomerado, nos
-termos do [art. 44](#art-44o);
+termos do [art. 44](res_1.md#art-44o);
 
 ### II
 
 designar o diretor responsável pelo gerenciamento de capital do conglomerado,
-nos termos do [art. 47](#art-47o);
+nos termos do [art. 47](res_1.md#art-47o);
 
 ### III
 
-constituir, para o conglomerado, comitê de riscos, nos termos do [art. 45](#art-45o).
+constituir, para o conglomerado, comitê de riscos, nos termos do [art. 45](res_1.md#art-45o).
 
 ### Parágrafo único
 
@@ -3106,13 +3106,13 @@ indicadores de liquidez, da RA e da remuneração de administradores.
 
 ### § 3º
 
-A forma do relatório de que trata o [§ 2º](#2o_30) deve ser estabelecida pelo Banco
+A forma do relatório de que trata o [§ 2º](res_1.md#2o_30) deve ser estabelecida pelo Banco
 Central do Brasil.
 
 ## Art. 56-A
 
 A instituição deve indicar diretor responsável pela divulgação de
-informações nos termos do [art. 56](#art-56o).
+informações nos termos do [art. 56](res_1.md#art-56o).
 
 ### § 1º
 
@@ -3120,8 +3120,8 @@ As atribuições do diretor mencionado no caput abrangem:
 
 #### I
 
-consolidar as informações a serem divulgadas no relatório de que trata o [§ 2º](#2o_30) do
-[art. 56](#art-56o);
+consolidar as informações a serem divulgadas no relatório de que trata o [§ 2º](res_1.md#2o_30) do
+[art. 56](res_1.md#art-56o);
 
 #### II
 
@@ -3147,8 +3147,8 @@ no sítio da instituição na internet.
 ## Art. 58
 
 As intuições enquadradas no S2 ficam dispensadas de utilizar, no programa
-de testes de estresse, a metodologia teste de estresse reverso mencionada no [art. 12](#art-12o), [inciso III](#iii_9),
-[alínea “c”](#c_3).
+de testes de estresse, a metodologia teste de estresse reverso mencionada no [art. 12](res_1.md#art-12o), [inciso III](res_1.md#iii_9),
+[alínea “c”](res_1.md#c_3).
 
 ## Art. 59
 
@@ -3157,63 +3157,63 @@ As instituições enquadradas no S3 ficam dispensadas de:
 ### I
 
 informar, no relatório gerencial, o grau de disseminação da cultura de
-gerenciamento de riscos conforme o disposto no [art. 7º](art-7o), [inciso X](#x_1), [alínea “e”](#e_2);
+gerenciamento de riscos conforme o disposto no [art. 7º](art-7o), [inciso X](res_1.md#x_1), [alínea “e”](res_1.md#e_2);
 
 ### II
 
-observar a restrição de que trata o [art. 9º](#art-9o), [parágrafo único](#paragrafo-unico_1), na avaliação periódica
+observar a restrição de que trata o [art. 9º](res_1.md#art-9o), [parágrafo único](res_1.md#paragrafo-unico_1), na avaliação periódica
 dos modelos de gerenciamento de riscos;
 
 ### III
 
 utilizar, no programa de testes de estresse, as metodologias análise de cenário
-e teste de estresse reverso mencionadas no [art. 12](#art-12o), [inciso III](#iii_9), alíneas [“b”](#b_3) e [“c”](#c_3);
+e teste de estresse reverso mencionadas no [art. 12](res_1.md#art-12o), [inciso III](res_1.md#iii_9), alíneas [“b”](res_1.md#b_3) e [“c”](res_1.md#c_3);
 
 ### IV
 
-documentar, relativamente ao programa de testes de estresse, o disposto no [art. 12](#art-12o), [inciso V](#v_3), alíneas [“c”](#c_4) e [“d”](#d_3);
+documentar, relativamente ao programa de testes de estresse, o disposto no [art. 12](res_1.md#art-12o), [inciso V](res_1.md#v_3), alíneas [“c”](res_1.md#c_4) e [“d”](res_1.md#d_3);
 
 ### V
 
 elaborar cenários no âmbito do programa de testes de estresse conforme
-disposto no [art. 15](#art-15o);
+disposto no [art. 15](res_1.md#art-15o);
 
 ### VI
 
 dispor de sistemas flexíveis, no âmbito do programa de testes de estre sse,
-conforme os critérios estabelecidos no [art. 16](#art-16o);
+conforme os critérios estabelecidos no [art. 16](res_1.md#art-16o);
 
 ### VII
 
 incorporar os resultados dos testes de estresse no processo estruturado de
-comunicação, conforme disposto no [art. 17](#art-17o), [inciso IV](#iv_7);
+comunicação, conforme disposto no [art. 17](res_1.md#art-17o), [inciso IV](res_1.md#iv_7);
 
 ### VIII
 
 gerenciar em estrutura de mesa de operações os instrumentos sujeitos a risco
-de mercado, conforme disposto nos arts. [25-A](#art-25-a) e [25-B](#art-25-b), salvo nos casos em que a instituição solicite
-autorização para constituição da mesa de operações dedicada, de que trata o [art. 27-A](#art-27-a), [§ 2º](#2o_15);
+de mercado, conforme disposto nos arts. [25-A](res_1.md#art-25-a) e [25-B](res_1.md#art-25-b), salvo nos casos em que a instituição solicite
+autorização para constituição da mesa de operações dedicada, de que trata o [art. 27-A](res_1.md#art-27-a), [§ 2º](res_1.md#2o_15);
 
 ### IX
 
-realizar análises de cenários de risco operacional conforme disposto no [art. 33](#art-33o),
-[inciso VI](#vi_8) e [§ 2º](#2o_18);
+realizar análises de cenários de risco operacional conforme disposto no [art. 33](res_1.md#art-33o),
+[inciso VI](res_1.md#vi_8) e [§ 2º](res_1.md#2o_18);
 
 ### X
 
-atender ao disposto no [art. 45](#art-45o), §§ 4º a 6º, na constituição do comitê de riscos;
+atender ao disposto no [art. 45](res_1.md#art-45o), §§ 4º a 6º, na constituição do comitê de riscos;
 
 ### XI
 
 identificar tempestivamente percepção negativa de clientes, do mercado
 financeiro e da sociedade em geral sobre a reputação da instituição, quando essa percepção possa
-impactar de maneira relevante o risco social, o risco ambiental e o risco climático por ela incorridos, conforme o disposto no [art. 38-D](#art-38-d), [inciso VI](#vi_12); e
+impactar de maneira relevante o risco social, o risco ambiental e o risco climático por ela incorridos, conforme o disposto no [art. 38-D](res_1.md#art-38-d), [inciso VI](res_1.md#vi_12); e
 
 ### XII
 
 realizar análise de cenários, no âmbito do programa de testes de estresse, que
 considerem hipóteses de mudanças em padrões climáticos e de transição para uma economia de
-baixo carbono, conforme disposto no [art. 38-D](#art-38-d), [inciso VII](#vii_9).
+baixo carbono, conforme disposto no [art. 38-D](res_1.md#art-38-d), [inciso VII](res_1.md#vii_9).
 
 ## Art. 60
 
@@ -3222,111 +3222,111 @@ As instituições enquadradas no S4 ficam dispensadas de:
 ### I
 
 informar, no relatório gerencial, o grau de disseminação da cultura de
-gerenciamento de riscos conforme disposto no [art. 7º](#art-7o), [inciso X](#x_1), [alínea “e”](#e_2);
+gerenciamento de riscos conforme disposto no [art. 7º](res_1.md#art-7o), [inciso X](res_1.md#x_1), [alínea “e”](res_1.md#e_2);
 
 ### II 
 
 efetuar a disseminação de informações por meio de processo estruturado de
-comunicação, conforme disposto no [art. 8º](#art-8o), [parágrafo único](#paragrafo-unico);
+comunicação, conforme disposto no [art. 8º](res_1.md#art-8o), [parágrafo único](res_1.md#paragrafo-unico);
 
 ### III
 
-observar a restrição de que trata o [art. 9º](#art-9o), [parágrafo único](#paragrafo-unico_1) , na avaliação
+observar a restrição de que trata o [art. 9º](res_1.md#art-9o), [parágrafo único](res_1.md#paragrafo-unico_1) , na avaliação
 periódica dos modelos de gerenciamento de riscos;
 
 ### IV
 
 utilizar, no programa de testes de estresse, as metodologias análise de cenário
-e teste de estresse reverso mencionadas no [art. 12](#art-12o), [inciso III](#iii_9), alíneas [“b”](#b_3) e [“c”](#c_3);
+e teste de estresse reverso mencionadas no [art. 12](res_1.md#art-12o), [inciso III](res_1.md#iii_9), alíneas [“b”](res_1.md#b_3) e [“c”](res_1.md#c_3);
 
 ### V
 
-documentar, relativamente ao programa de testes de estresse, o disposto no [art. 12](#art-12o), [inciso V](#v_3), alíneas [“c”](#c_4), [“d”](#d_3), [“e”](#e_3) e [“f”](#f_3);
+documentar, relativamente ao programa de testes de estresse, o disposto no [art. 12](res_1.md#art-12o), [inciso V](res_1.md#v_3), alíneas [“c”](res_1.md#c_4), [“d”](res_1.md#d_3), [“e”](res_1.md#e_3) e [“f”](res_1.md#f_3);
 
 ### VI
 
 considerar a contribuição de especialistas na realização do programa de testes
-de estresse, conforme disposto no [art. 12](#art-12o), [parágrafo único](#paragrafo-unico_2);
+de estresse, conforme disposto no [art. 12](res_1.md#art-12o), [parágrafo único](res_1.md#paragrafo-unico_2);
 
 ### VII
 
 utilizar o programa de testes de estresse na avaliação da adequação e da
 robustez das premissas e das metodologias empregadas nos modelos de gerenciamento de riscos,
-conforme o disposto no [art. 13](#art-13o), [inciso II](#ii_12);
+conforme o disposto no [art. 13](res_1.md#art-13o), [inciso II](res_1.md#ii_12);
 
 ### VIII
 
 observar os critérios para a realização dos testes de estresse estabelecidos no
-[art. 14](#art-14o);
+[art. 14](res_1.md#art-14o);
 
 ### IX
 
 elaborar cenários no âmbito do programa de testes de estresse conforme
-disposto no [art. 15](#art-15o);
+disposto no [art. 15](res_1.md#art-15o);
 
 ### X
 
 dispor de sistemas flexíveis, no âmbito do programa de testes de estre sse,
-conforme os critérios estabelecidos no [art. 16](#art-16o);
+conforme os critérios estabelecidos no [art. 16](res_1.md#art-16o);
 
 ### XI
 
 incorporar os resultados dos testes de estresse no processo estruturado de
-comunicação, conforme o disposto no [art. 17](#art-17o), [inciso IV](#iv_7);
+comunicação, conforme o disposto no [art. 17](res_1.md#art-17o), [inciso IV](res_1.md#iv_7);
 
 ### XII
 
 gerenciar em estrutura de mesa de operações os instrumentos sujeitos a risco
-de mercado, conforme disposto nos arts. [25-A](#art-25-a) e [25-B](#art-25-b), bem como documentar as reclassificações
-de instrumentos entre as carteiras de negociação e bancária conforme o disposto no [art. 29](#art-29o), [inciso
-II](#ii_31), [alínea “a”](#a_13), e as transferências internas de riscos conforme o disposto no [art. 29](#art-29o), [inciso II](#ii_31), [alínea
-“b”](#b_13);
+de mercado, conforme disposto nos arts. [25-A](res_1.md#art-25-a) e [25-B](res_1.md#art-25-b), bem como documentar as reclassificações
+de instrumentos entre as carteiras de negociação e bancária conforme o disposto no [art. 29](res_1.md#art-29o), [inciso
+II](res_1.md#ii_31), [alínea “a”](res_1.md#a_13), e as transferências internas de riscos conforme o disposto no [art. 29](res_1.md#art-29o), [inciso II](res_1.md#ii_31), [alínea
+“b”](res_1.md#b_13);
 
 ### XIII
 
 documentar na RAS os níveis de apetite por IRRBB para as abordagens de
-valor econômico de que trata o [art. 30](#art-30o), [§ 3º](#3o_10);
+valor econômico de que trata o [art. 30](res_1.md#art-30o), [§ 3º](res_1.md#3o_10);
 
 ### XIV
 
 incluir os aspectos adicionais relativos ao IRRBB nos relatórios gerenciais,
-conforme o disposto no [art. 31](#art-31o);
+conforme o disposto no [art. 31](res_1.md#art-31o);
 
 ### XV
 
 implementar os processos de coleta de informações, classificação, agregação
-e análise de perdas operacionais de que trata o [art. 33](#art-33o), [inciso V](#v_11);
+e análise de perdas operacionais de que trata o [art. 33](res_1.md#art-33o), [inciso V](res_1.md#v_11);
 
 ### XVI
 
 realizar análises de cenários de risco operacional conforme o disposto no [art.
-33](#art-33o), [inciso VI](#vi_8) e [§ 2º](#2o_18);
+33](res_1.md#art-33o), [inciso VI](res_1.md#vi_8) e [§ 2º](res_1.md#2o_18);
 
 ### XVII
 
-constituir base de dados de risco operacional conforme o disposto no [art. 34](#art-34o);
+constituir base de dados de risco operacional conforme o disposto no [art. 34](res_1.md#art-34o);
 
 ### XVIII
 
-elaborar o plano de contingência de capital mencionado no [art. 40](#art-40o), [inciso
-V](#v_17);
+elaborar o plano de contingência de capital mencionado no [art. 40](res_1.md#art-40o), [inciso
+V](res_1.md#v_17);
 
 ### XIX
 
-constituir comitê de riscos nos termos do [art. 45](#art-45o);
+constituir comitê de riscos nos termos do [art. 45](res_1.md#art-45o);
 
 ### XX
 
 identificar tempestivamente percepção negativa de clientes, do mercado
 financeiro e da sociedade em geral sobre a reputação da instituição, quando essa percepção possa
 impactar de maneira relevante o risco social, o risco ambiental e o risco climático por ela
-incorridos, conforme o disposto no [art. 38-D](#art-38-d), [inciso VI](#vi_12); e
+incorridos, conforme o disposto no [art. 38-D](res_1.md#art-38-d), [inciso VI](res_1.md#vi_12); e
 
 ### XXI
 
 realizar análise de cenários, no âmbito do programa de testes de estresse, que
 considerem hipóteses de mudanças em padrões climáticos e de transição para uma economia de
-baixo carbono, conforme disposto no [art. 38-D](#art-38-d), [inciso VII](#vii_9).
+baixo carbono, conforme disposto no [art. 38-D](res_1.md#art-38-d), [inciso VII](res_1.md#vii_9).
 
 # CAPÍTULO IX DA ESTRUTURA DE GERENCIAMENTO DE RISCOS DAS INSTITUIÇÕES ENQUADRADAS NO SEGMENTO 5 (S5)
 
