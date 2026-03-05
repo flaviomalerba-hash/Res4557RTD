@@ -156,7 +156,7 @@ crédito.
 ### § 4º
 
 O Banco Central do Brasil deve ser informado sobre a indicação da entidade
-de que trata o [§ 3º](res_1.md#3o_1).
+de que trata o [§ 3º](res_1.md#3o-1).
 
 ### § 5º
 
@@ -178,8 +178,8 @@ Para fins da elaboração da RAS, devem ser considerados:
 
 #### I
 
-os níveis de riscos que a instituição está disposta a assumir, nos termos do art.
-6º, caput, discriminados por tipo de risco e, quando aplicável, por diferentes horizontes de tempo;
+os níveis de riscos que a instituição está disposta a assumir, nos termos do [art.
+6º](res_1.md#art-6o), caput, discriminados por tipo de risco e, quando aplicável, por diferentes horizontes de tempo;
 
 #### II
 
@@ -349,7 +349,7 @@ riscos, e o conselho de administração, quando existente, versando sobre:
 
 ##### a)
 
-valores agregados de exposição aos riscos de que trata o art. 6º e seus principais
+valores agregados de exposição aos riscos de que trata o [art. 6º](res_1.md#art-6o) e seus principais
 determinantes;
 
 ##### b)
@@ -2096,7 +2096,7 @@ recursos naturais, desertificação e mudança em padrão pluvial ou de temperat
 
 ### Art. 38-D
 
-A estrutura de gerenciamento de que trata o art. 7º deve prever,
+A estrutura de gerenciamento de que trata o [art. 7º](res_1.md#art-7o) deve prever,
 adicionalmente, para o risco social, o risco ambiental e o risco climático:
 
 #### I
@@ -2164,8 +2164,8 @@ de transição para uma economia de baixo carbono.
 #### § 1º
 
 Quando a hipótese de ocorrência de evento de risco social, de risco ambiental
-ou de risco climático implicar possibilidade de perda relacionada a outro risco mencionado no art.
-6º, caput, o gerenciamento de riscos e o cumprimento dos requerimentos mínimos prudenciais,
+ou de risco climático implicar possibilidade de perda relacionada a outro risco mencionado no [art.
+6º](res_1.md#art-6o), caput, o gerenciamento de riscos e o cumprimento dos requerimentos mínimos prudenciais,
 quando aplicáveis, devem ser observados para cada um dos riscos envolvidos.
 
 #### § 2º
@@ -2696,7 +2696,7 @@ As atribuições do comitê de riscos abrangem:
 ##### I
 
 propor, com periodicidade mínima anual, recomendações ao conselho de
-administração sobre os assuntos de que trata o art. 48, inciso II;
+administração sobre os assuntos de que trata o [art. 48](res_1.md#art-48o), [inciso II](res_1.md#ii-63);
 
 ##### II
 
@@ -2962,8 +2962,8 @@ Compete à diretoria da instituição:
 
 #### I
 
-conduzir, em conformidade com as políticas e estratégias de que trata o art. 7º,
-inciso I, as atividades que impliquem a assunção de riscos;
+conduzir, em conformidade com as políticas e estratégias de que trata o [art. 7º](res_1.md#art-7o),
+[inciso I](res_1.md#i-5), as atividades que impliquem a assunção de riscos;
 
 #### II
 
@@ -3027,7 +3027,7 @@ demais entidades controladas por seus integrantes ou das quais estes participem.
 
 A estrutura unificada para gerenciamento de capital do conglomerado
 prudencial, de que trata o [art. 2º](res_1.md#art-2o), [§ 2º](res_1.md#2o), deve avaliar os possíveis impactos no capital e na liquidez
-do conglomerado prudencial oriundos dos riscos de que trata o art. 6º.
+do conglomerado prudencial oriundos dos riscos de que trata o [art. 6º](res_1.md#art-6o).
 
 ## Art. 55
 
