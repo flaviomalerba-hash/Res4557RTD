@@ -1,4 +1,4 @@
-RESOLUÇÃO Nº 4.557, DE 23 DE FEVEREIRO DE 2017  
+# RESOLUÇÃO Nº 4.557, DE 23 DE FEVEREIRO DE 2017  
 
 Dispõe sobre a estrutura de gerenciamento de riscos,
 a estrutura de gerenciamento de capital e a política de
@@ -20,7 +20,7 @@ Esta Resolução dispõe sobre a estrutura de gerenciamento de riscos, a
 estrutura de gerenciamento de capital e a política de divulgação de informações.  
 Parágrafo único. O disposto nesta Resolução não se aplica às administradoras de
 consórcio, às instituições de pagamento, às sociedades corretoras de títulos e valores mobiliários,
-às sociedades distribuidoras de títulos e valores mobiliários e às sociedades corretoras de câmbio,
+às sociedades distribuidoras de títulos e valores mobiliár ios e às sociedades corretoras de câmbio,
 que seguirão as normas editadas pelo Banco Central do Brasil no exercício de suas atribuições
 legais.
 

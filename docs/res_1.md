@@ -1402,7 +1402,7 @@ os instrumentos classificados na carteira de negociação ou na carteira bancár
 </section>
 </section>
 </section>
-<section id="art-25-ao">
+<section id="art-25-a">
 Art. 25-A
 
 Os instrumentos sujeitos ao risco de mercado, conforme definido no [art.
@@ -1441,7 +1441,7 @@ volume de negociação da instituição e aos tipos de instrumentos negociados.
 
 </section>
 </section>
-<section id="art-25-bo">
+<section id="art-25-b">
 Art. 25-B
 
 Cada mesa de operações de que trata o [art. 25-A](#art-25-a) deve gerenciar
@@ -1494,7 +1494,7 @@ consistentes e passíveis de verificação.
 
 </section>
 </section>
-<section id="art-26-ao">
+<section id="art-26-a">
 Art. 26-A
 
 Em situações extraordinárias devidamente fundamentadas, o Banco
@@ -1527,7 +1527,7 @@ observados os critérios estabelecidos pelo Banco Central do Brasil.
 
 </section>
 </section>
-<section id="art-27-ao">
+<section id="art-27-a">
 Art. 27-A
 
 Para fins desta Resolução, transferência interna de riscos corresponde
@@ -2142,7 +2142,7 @@ instituições.
 <section id="secao-viii-do-gerenciamento-do-risco-social-do-risco-ambiental-e-do-risco-climatico">
 Seção VIII Do gerenciamento do risco social, do risco ambiental e do risco climático
 
-<section id="art-38-ao">
+<section id="art-38-a">
 Art. 38-A
 
 Para fins desta Resolução, define-se o risco social como a possibilidade
@@ -2238,7 +2238,7 @@ negativamente a reputação da instituição, por ser considerado lesivo a inter
 </section>
 </section>
 </section>
-<section id="art-38-bo">
+<section id="art-38-b">
 Art. 38-B
 
 Para fins desta Resolução, define-se o risco ambiental como a
@@ -2290,7 +2290,7 @@ negativamente a reputação da instituição, em decorrência de degradação do
 </section>
 </section>
 </section>
-<section id="art-38-co">
+<section id="art-38-c">
 Art. 38-C
 
 Para fins desta Resolução, define-se o risco climático, em suas vertentes
@@ -2356,7 +2356,7 @@ recursos naturais, desertificação e mudança em padrão pluvial ou de temperat
 </section>
 </section>
 </section>
-<section id="art-38-do">
+<section id="art-38-d">
 Art. 38-D
 
 A estrutura de gerenciamento de que trata o art. 7º deve prever,
@@ -2469,7 +2469,7 @@ vistas ao gerenciamento do risco social, do risco ambiental e do risco climátic
 
 </section>
 </section>
-<section id="art-38-eo">
+<section id="art-38-e">
 Art. 38-E
 
 O tratamento das interações entre o risco social, o risco ambiental e o
@@ -2601,7 +2601,7 @@ aspectos sociais, ambientais e climáticos.
 </section>
 </section>
 </section>
-<section id="art-38-fo">
+<section id="art-38-f">
 Art. 38-F
 
 Os relatórios gerenciais de que trata o [art. 7º](#art-7o), [inciso X](#x_1), devem abordar
@@ -2622,7 +2622,7 @@ climático, de que trata o [art. 38-D](#art-38-d), [inciso V](#v_15).
 <section id="secao-ix-do-gerenciamento-do-risco-pais-e-do-risco-de-transferencia">
 Seção IX Do gerenciamento do risco país e do risco de transferência
 
-<section id="art-38-go">
+<section id="art-38-g">
 Art. 38-G
 
 Para fins desta Resolução, define-se:
@@ -2659,7 +2659,7 @@ definição de contraparte estabelecida no [art. 21](#art-21o), [§ 1º](#1o_8),
 
 </section>
 </section>
-<section id="art-38-ho">
+<section id="art-38-h">
 Art. 38-H
 
 A estrutura de gerenciamento de que trata o [art. 7º](#art-7o) deve prever,
@@ -3513,7 +3513,7 @@ Central do Brasil.
 
 </section>
 </section>
-<section id="art-56-ao">
+<section id="art-56-a">
 Art. 56-A
 
 A instituição deve indicar diretor responsável pela divulgação de
@@ -3855,7 +3855,7 @@ de 2006, 3.464, de 26 de junho de 2007, 3.721, de 30 de abril de 2009, 3.988, de
 
 </section>
 </section>
-<section id="art-67-ao">
+<section id="art-67-a">
 Art. 67-A
 
 Devem ser observados a partir de 1º de dezembro de 2022 os seguintes
